@@ -5,9 +5,9 @@
 
 # High Level Design:
 
-![image](https://user-images.githubusercontent.com/94232050/142864359-006b1a8d-8c25-461a-bf11-eaff2c80e11f.png)
+![image](https://slideplayer.com/slide/7656180/25/images/4/System+Architectural+Model+%E2%80%93+Public+School+Library+Application.jpg)
 
 # Low Level Design:
 
-![image](https://user-images.githubusercontent.com/94232050/142865075-f5e778b9-bd88-4f07-8a4f-762bd5e97492.png)
+![image](https://i1.wp.com/www.freestudentprojects.com/wp-content/uploads/2012/09/Library-Management-System-Design.jpg?resize=498%2C230)
 
