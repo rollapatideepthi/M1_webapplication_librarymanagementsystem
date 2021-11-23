@@ -487,8 +487,8 @@ void init()
 {
 FILE *fp = NULL;
 int status = 0;
-const char defaultUsername[] =“aticleworld\n”;
-const char defaultPassword[] =“aticleworld\n”;
+const char defaultUsername[] =“deepthi\n”;
+const char defaultPassword[] =“1234567890\n”;
 sFileHeader fileHeaderInfo = {0};
 status = isFileExists(FILE_NAME);
 if(!status)
